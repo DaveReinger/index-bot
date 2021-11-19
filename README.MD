@@ -1,15 +1,20 @@
 Telegram index bot
 for find group,channel,bot
 
-
+```bash
+useradd elasticsearch # 添加用户
+passwd elasticsearch # 加上密码
+```
 
 vim setup.sh 
-``` shell
-user="myuser"
+```bash
+...
+user="elasticsearch"
+...
 ```
 
 
-``` shell
+```bash
 chmod +x ./setup.sh
 ./setup.sh
 sudo ./setup.sh install
