@@ -8,7 +8,7 @@
             Telegram语言包设置：
             【 &lt;a href="tg://setlanguage?lang=zhcncc" &gt;简体中文&lt;/a&gt; | &lt;a href="tg://setlanguage?lang=zh-hant-beta" &gt;繁體中文&lt;/a&gt; | &lt;a href="tg://setlanguage?lang=en" &gt;English&lt;/a&gt; 】
 
-            收录信息及时知：&lt;a href="https://t.me/zh_secretary" &gt;SE-索引公告板&lt;/a&gt;
+            收录信息及时知：&lt;a href="https://t.me/Ddianbaosuoyin" &gt;索引内测公告板&lt;/a&gt;
 
             请选择一个分类或回复关键词进行查询。
         </content>
@@ -183,7 +183,7 @@
             help-private
         </type>
         <content>
-            SE-索引秘书可以根据类型、关键字为您提供已收录的信息，您也可以使用 /enroll 查看如何提交收录申请。
+            【内测ing by DaveReinger】索引秘书可以根据类型、关键字为您提供已收录的信息，您也可以使用 /enroll 查看如何提交收录申请。
         </content>
     </msg>
     <msg>
