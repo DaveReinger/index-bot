@@ -98,7 +98,11 @@ class ListMsgFactory(
                         InlineKeyboardButton("上一页").callbackData("page:$keywords&${pageIndex - 1}"),
                     )
                 )
-            else -> InlineKeyboardMarkup()
+            else -> InlineKeyboardMarkup(
+                arrayOf(
+                    InlineKeyboardButton("高性价比机场魔法云").url("https://t.me/magic_cfw"),
+                )
+            )
         }
     }
 
