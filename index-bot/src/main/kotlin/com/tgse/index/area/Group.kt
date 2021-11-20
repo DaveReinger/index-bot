@@ -87,7 +87,7 @@ class Group(
             "list" -> normalMsgFactory.makeReplyMsg(request.chatId, "only-private")
             "mine" -> normalMsgFactory.makeReplyMsg(request.chatId, "only-private")
             // todo： 配置是否开启索引服务群组 /list
-//            "setting" -> msgFactory.makeReplyMsg(request.chatId, "setting")
+           "setting" -> msgFactory.makeReplyMsg(request.chatId, "setting")
             "help" -> normalMsgFactory.makeReplyMsg(request.chatId, "help-group")
             else -> normalMsgFactory.makeReplyMsg(request.chatId, "can-not-understand")
         } ?: return
